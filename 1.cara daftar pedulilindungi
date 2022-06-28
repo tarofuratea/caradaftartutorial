@@ -28,13 +28,13 @@
     {
       "id": 1,
       "title": "cara daftar 1",
-      "image": "",
+      "image": "file:///android_asset/image/guide1.jpg",
       "link": "https://play.google.com/store/apps/details?id"
     },
     {
       "id": 2,
       "title": "cara daftar 2",
-      "image": "",
+      "image": "file:///android_asset/image/guide1.jpg",
       "link": "https://play.google.com/store/apps/details?id"
     }
   ],
