@@ -1,0 +1,89 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-6131924727569946/5027300436",
+      "main_ads_intertitial":"ca-app-pub-6131924727569946/3714218765",
+      "native_for_admob":"ca-app-pub-6131924727569946/2401137092",
+      "backup_ads_banner":"ds4d5e8718b97d78x",
+      "backup_ads_intertitial":"5s8cd97722c60b52x",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+    
+    
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "playstore",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47eK7yr-cFXe4uXmu-eP1Sm71pI91UZlRYdKgQ6o67Xo2nCAwbbBdX37SBup6DuNOcMHlZgizr2KiXXoz5fuGcSvqjLpegG0_3hmB9DR8rmPR9IH9_b2v13FclsVqKqaqtnBTULoz8BWOYcQWMVT--ERZycEmIqi3eU7sGcsk5bBggFjEz8itJ3LW/s512/logo1.png",
+      "link": "https://play.google.com/store/apps/details?id="
+    }
+    
+    
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47eK7yr-cFXe4uXmu-eP1Sm71pI91UZlRYdKgQ6o67Xo2nCAwbbBdX37SBup6DuNOcMHlZgizr2KiXXoz5fuGcSvqjLpegG0_3hmB9DR8rmPR9IH9_b2v13FclsVqKqaqtnBTULoz8BWOYcQWMVT--ERZycEmIqi3eU7sGcsk5bBggFjEz8itJ3LW/s512/logo1.png"
+    }
+    
+    
+    
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "1. cara daftar MyPertamina",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTafhjLc9pncz04nAZHfOCB9NM1pf9X70snIgZ1OXVuPC-nvw_UrOw4bdab4HdWbxQCtpgLlvuk_JIxug8niKyNzK-LmzQkqFfjffFS3_Q9HnH3L5ica57ePMC2jd7J-eJBbBWqBnMx4bG_pLY3oIlco0n38uqmd2ttC78QV8HIFO99RxcFrccnXN-9A/s700/infografis-11-daerah-wajib-daftar-mypertamina-buat-beli-pertalite-solar-1_169.jpeg",
+      "description": "Sebagaimana diketahui, Pertamina mulai membuka pendaftaran MyPertamina untuk uji coba beli Pertalite dan Solar",
+      "link": "https://caradaftarmypertamina.blogspot.com/2022/07/1-cara-daftar-mypertamina.html"
+    },
+   
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "2. Cara Mendaftar Dengan Aplikasi MyPertamina",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47eK7yr-cFXe4uXmu-eP1Sm71pI91UZlRYdKgQ6o67Xo2nCAwbbBdX37SBup6DuNOcMHlZgizr2KiXXoz5fuGcSvqjLpegG0_3hmB9DR8rmPR9IH9_b2v13FclsVqKqaqtnBTULoz8BWOYcQWMVT--ERZycEmIqi3eU7sGcsk5bBggFjEz8itJ3LW/s512/logo1.png",
+      "description": "Cara Mendaftar Aplikasi MyPertamina Pastikan kamu sudah mendownload aplikasi MyPertamina di Play Store atau App Store Buka aplikasinya",
+      "link": "https://caradaftarmypertamina.blogspot.com/2022/07/2-cara-mendaftar-dengan-aplikasi.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "3. Cara Daftar MyPertamina Secara Online",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47eK7yr-cFXe4uXmu-eP1Sm71pI91UZlRYdKgQ6o67Xo2nCAwbbBdX37SBup6DuNOcMHlZgizr2KiXXoz5fuGcSvqjLpegG0_3hmB9DR8rmPR9IH9_b2v13FclsVqKqaqtnBTULoz8BWOYcQWMVT--ERZycEmIqi3eU7sGcsk5bBggFjEz8itJ3LW/s512/logo1.png",
+      "description": "Cara Daftar MyPertamina Secara Online Pendaftaran akun MyPertamina dapat dilakukan dengan dua opsi",
+      "link": "https://caradaftarmypertamina.blogspot.com/2022/07/3-cara-daftar-mypertamina-secara-online.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "4. Pembayaran Lewat MyPertamina Bisa Secara Tunai dan Non-Tunai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47eK7yr-cFXe4uXmu-eP1Sm71pI91UZlRYdKgQ6o67Xo2nCAwbbBdX37SBup6DuNOcMHlZgizr2KiXXoz5fuGcSvqjLpegG0_3hmB9DR8rmPR9IH9_b2v13FclsVqKqaqtnBTULoz8BWOYcQWMVT--ERZycEmIqi3eU7sGcsk5bBggFjEz8itJ3LW/s512/logo1.png",
+      "description": "Pembayaran Lewat MyPertamina Bisa Secara Tunai dan Non-Tunai Pembayaran membeli Pertalite dan Solar tetap bisa dilakukan secara tunai selain non tunai",
+      "link": "https://caradaftarmypertamina.blogspot.com/2022/07/5-pembayaran-lewat-mypertamina-bisa.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "5. Serba Serbi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47eK7yr-cFXe4uXmu-eP1Sm71pI91UZlRYdKgQ6o67Xo2nCAwbbBdX37SBup6DuNOcMHlZgizr2KiXXoz5fuGcSvqjLpegG0_3hmB9DR8rmPR9IH9_b2v13FclsVqKqaqtnBTULoz8BWOYcQWMVT--ERZycEmIqi3eU7sGcsk5bBggFjEz8itJ3LW/s512/logo1.png",
+      "description": " Menu Aplikasi MyPertamina Pada halaman pertama MyPertamina, kita akan bisa menemukan berbagai menu yang disediakan",
+      "link": "https://caradaftarmypertamina.blogspot.com/2022/07/6-serba-serbi.html"
+    }
+ 
+  ]
+}
