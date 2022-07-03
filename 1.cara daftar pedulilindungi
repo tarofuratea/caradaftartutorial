@@ -6,8 +6,8 @@
       "main_ads_banner": "ca-app-pub-6131924727569946/5027300436",
       "main_ads_intertitial":"ca-app-pub-6131924727569946/3714218765",
       "native_for_admob":"ca-app-pub-6131924727569946/2401137092",
-      "backup_ads_banner":"db4d5e8718b97d78x",
-      "backup_ads_intertitial":"518cd97722c60b52x",
+      "backup_ads_banner":"ds4d5e8718b97d78x",
+      "backup_ads_intertitial":"5s8cd97722c60b52x",
       "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -46,27 +46,52 @@
     {
       "id": 1,
       "name_category": "Tutorial",
-      "title": "cara mendaftar peduli lindungi",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Di beberapa ruang publik seperti pusat perbelanjaan, tempat makan, hingga lokasi wisata,",
+      "title": "1. cara mendaftar peduli lindungi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ4rppwiSd9JEgWm8D1BGO8Qgs2PwH5DAWys7KlUrlByj5UPxL9By9DyA44hrxsmVu15CtrkzZMcFDaKPfzT0NT4zH5cWihsTQrlR_P5hH9KvMLqOjkkQYEpzCjIauffkOZrckUqWc5Vbe9fRJ9Mysl5Xx5tFfxY3P6eWKRGwjAT6U18DrQELvVuDx/s700/cara-mendaftar-pedulilindungi-bisa-cek-sertifikat-vaksin_169.jpeg",
+      "description": "PeduliLindungi adalah aplikasi dan situs yang digunakan dalam pelaksanaan surveilans kesehatan olah Republik Indonesia dalam menangani penyebaran Covid-19",
       "link": "https://caradaftarpedulilindungi.blogspot.com/2022/06/cara-mendaftar-peduli-lindungi.html"
     },
    
     {
       "id": 2,
       "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "title": "2. Cara Daftar Vaksin di PeduliLindungi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47eK7yr-cFXe4uXmu-eP1Sm71pI91UZlRYdKgQ6o67Xo2nCAwbbBdX37SBup6DuNOcMHlZgizr2KiXXoz5fuGcSvqjLpegG0_3hmB9DR8rmPR9IH9_b2v13FclsVqKqaqtnBTULoz8BWOYcQWMVT--ERZycEmIqi3eU7sGcsk5bBggFjEz8itJ3LW/s512/logo1.png",
+      "description": "eduliLindungi bisa diakses lewat aplikasi atau website. Layanan PeduliLindungi ini, bisa digunakan untuk mendaftar vaksin.",
+      "link": "https://caradaftarpedulilindungi.blogspot.com/2022/07/test.html"
     },
     {
       "id": 3,
       "name_category": "Tutorial",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "title": "3. Cara Menggunakan Aplikasi PeduliLindungi untuk Daftar Vaksin Booster",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47eK7yr-cFXe4uXmu-eP1Sm71pI91UZlRYdKgQ6o67Xo2nCAwbbBdX37SBup6DuNOcMHlZgizr2KiXXoz5fuGcSvqjLpegG0_3hmB9DR8rmPR9IH9_b2v13FclsVqKqaqtnBTULoz8BWOYcQWMVT--ERZycEmIqi3eU7sGcsk5bBggFjEz8itJ3LW/s512/logo1.png",
+      "description": "Vaksin booster adalah vaksinasi Covid-19 setelah seseorang telah mendapatkan vaksinasi primer dosis pertama dan kedua. ",
+      "link": "https://caradaftarpedulilindungi.blogspot.com/2022/07/3-cara-menggunakan-aplikasi.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "4. Cara Melihat Sertifikat Vaksin di PeduliLindungi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47eK7yr-cFXe4uXmu-eP1Sm71pI91UZlRYdKgQ6o67Xo2nCAwbbBdX37SBup6DuNOcMHlZgizr2KiXXoz5fuGcSvqjLpegG0_3hmB9DR8rmPR9IH9_b2v13FclsVqKqaqtnBTULoz8BWOYcQWMVT--ERZycEmIqi3eU7sGcsk5bBggFjEz8itJ3LW/s512/logo1.png",
+      "description": "Setelah selesai vaksin, Anda akan mendapatkan sertifikat vaksin. Sertifikat tersebut bisa dilihat pada website PeduliLindungi.",
+      "link": "https://caradaftarpedulilindungi.blogspot.com/2022/07/4-cara-melihat-sertifikat-vaksin-di_2.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "5. Cara Download Sertifikat Vaksin di PeduliLindungi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47eK7yr-cFXe4uXmu-eP1Sm71pI91UZlRYdKgQ6o67Xo2nCAwbbBdX37SBup6DuNOcMHlZgizr2KiXXoz5fuGcSvqjLpegG0_3hmB9DR8rmPR9IH9_b2v13FclsVqKqaqtnBTULoz8BWOYcQWMVT--ERZycEmIqi3eU7sGcsk5bBggFjEz8itJ3LW/s512/logo1.png",
+      "description": "Vaksin booster adalah vaksinasi Covid-19 setelah seseorang telah mendapatkan vaksinasi primer dosis pertama dan kedua. ",
+      "link": "https://caradaftarpedulilindungi.blogspot.com/2022/07/5-cara-download-sertifikat-vaksin-di.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "6. Cara Menggunakan Aplikasi PeduliLindungi Saat Mengunjungi Fasilitas Publik",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47eK7yr-cFXe4uXmu-eP1Sm71pI91UZlRYdKgQ6o67Xo2nCAwbbBdX37SBup6DuNOcMHlZgizr2KiXXoz5fuGcSvqjLpegG0_3hmB9DR8rmPR9IH9_b2v13FclsVqKqaqtnBTULoz8BWOYcQWMVT--ERZycEmIqi3eU7sGcsk5bBggFjEz8itJ3LW/s512/logo1.png",
+      "description": "Vaksin booster adalah vaksinasi Covid-19 setelah seseorang telah mendapatkan vaksinasi primer dosis pertama dan kedua. ",
+      "link": "https://caradaftarpedulilindungi.blogspot.com/2022/07/cara-menggunakan-aplikasi.html"
     }
+  ]
   ]
 }
