@@ -1,0 +1,113 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"ds4d5e8718b97d78x",
+      "backup_ads_intertitial":"5s8cd97722c60b52x",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+    
+    
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "playstore",
+      "image": "file:///android_asset/image/guide1.png",
+      "link": "https://play.google.com/store/apps/details?id="
+    }
+    
+    
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/guide1.png"
+    }
+    
+    
+    
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "TAHAP 1: HAFALKAN NOTASI",
+      "image": "https://1.bp.blogspot.com/-t36sWBXkgHM/XYYOcIoTe0I/AAAAAAAABcM/UW62LBnBVs0Qk5Cch7dfkFXjGVWWenxYwCLcBGAsYHQ/w400-h386/71vkwCLs%252BEL._SX679_.jpg",
+      "description": "Halo, kali ini penulis akan sharing Cara Untuk Menyelesaikan Rubik 3x3x3 bagi pemula",
+      "link": "https://tutorialrubik3x3cube.blogspot.com/2022/07/tahap-1-hafalkan-notasi.html"
+    },
+   
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Tahap 2: buatlah cross",
+      "image": "https://1.bp.blogspot.com/-ueIe5MHKT40/XYbnTINxl-I/AAAAAAAABeA/SGjOkM71SWAqfAEWlbyfO0fgStr48XGEgCLcBGAsYHQ/w390-h400/1.jpg",
+      "description": "Untuk membuat cross, kalian perlu mengetahui dan memahami bagian bagian dari sebuah Rubik's Cube, yaitu Edge, Corner dan Center",
+      "link": "https://tutorialrubik3x3cube.blogspot.com/2022/07/tahap-2-buatlah-cross.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Tahap 3: first layer",
+      "image": "https://1.bp.blogspot.com/-ueIe5MHKT40/XYbnTINxl-I/AAAAAAAABeA/SGjOkM71SWAqfAEWlbyfO0fgStr48XGEgCLcBGAsYHQ/w390-h400/1.jpg",
+      "description": "Pada Kasus First Layer, kalian harus fokus pada corner yang memiliki warna putih(pada kasus ini cross berwarna putih)",
+      "link": "https://tutorialrubik3x3cube.blogspot.com/2022/07/tahap-3-first-layer.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Tahap 4: second layer",
+      "image": "https://1.bp.blogspot.com/-ueIe5MHKT40/XYbnTINxl-I/AAAAAAAABeA/SGjOkM71SWAqfAEWlbyfO0fgStr48XGEgCLcBGAsYHQ/w390-h400/1.jpg",
+      "description": "Ada 2 Kasus Utama Pada Tahap ini, yaitu",
+      "link": "https://tutorialrubik3x3cube.blogspot.com/2022/07/tahap-4-second-layer.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Tahap 5: 2-Look OLL",
+      "image": "https://1.bp.blogspot.com/-ueIe5MHKT40/XYbnTINxl-I/AAAAAAAABeA/SGjOkM71SWAqfAEWlbyfO0fgStr48XGEgCLcBGAsYHQ/w390-h400/1.jpg",
+      "description": "2 Look OLL adalah Menyelesaikan Warna Di sisi yang berlawanan dari warna cross, dalam kasus ini adalah warna kuning",
+      "link": "https://tutorialrubik3x3cube.blogspot.com/2022/07/tahap-5-2-look-oll.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Tahap 6: 2-Look PLL",
+      "image": "https://1.bp.blogspot.com/-ueIe5MHKT40/XYbnTINxl-I/AAAAAAAABeA/SGjOkM71SWAqfAEWlbyfO0fgStr48XGEgCLcBGAsYHQ/w390-h400/1.jpg",
+      "description": "Tujuan di lakukannya 2 Look PLL adalah untuk mem Permutasikan Posisi dari masing masing Piece ( Edge dan Corner)",
+      "link": "https://tutorialrubik3x3cube.blogspot.com/2022/07/tahap-6-2-look-pll.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "Tutorial Rubik Pyraminx Metode Layer By Layer (Tingkat Dasar)",
+      "image": "https://1.bp.blogspot.com/-ueIe5MHKT40/XYbnTINxl-I/AAAAAAAABeA/SGjOkM71SWAqfAEWlbyfO0fgStr48XGEgCLcBGAsYHQ/w390-h400/1.jpg",
+      "description": "Halo sobat cuber! Di artikel ini, rubik.id akan membahas mengenai metode layer by layer atau LBL dalam menyelesaikan pyraminx.",
+      "link": "https://tutorialrubik3x3cube.blogspot.com/2022/07/tutorial-rubik-pyraminx-metode-layer-by.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "Tutorial Rubik 2x2x2 Untuk Pemula (Layer By Layer)",
+      "image": "https://1.bp.blogspot.com/-ueIe5MHKT40/XYbnTINxl-I/AAAAAAAABeA/SGjOkM71SWAqfAEWlbyfO0fgStr48XGEgCLcBGAsYHQ/w390-h400/1.jpg",
+      "description": "Halo cuber, selamat datang di rubik.id, buat kalian yang sedang mencari Tutorial Rubik 2x2x2",
+      "link": "https://tutorialrubik3x3cube.blogspot.com/2022/07/tutorial-rubik-2x2x2-untuk-pemula-layer.html"
+    }
+ 
+  ]
+}
