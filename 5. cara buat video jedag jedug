@@ -1,0 +1,97 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"ds4d5e8718b97d78x",
+      "backup_ads_intertitial":"5s8cd97722c60b52x",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+    
+    
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "playstore",
+      "image": "file:///android_asset/image/guide1.png",
+      "link": "https://play.google.com/store/apps/details?id="
+    }
+
+
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/guide1.png"
+    }
+
+
+
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "Cara Membuka Situs yang Diblokir",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Banyaknya situs yang terlarang menurut pemerintah membuat masyarakat kebingungan",
+      "link": "https://carabukasitusblokir.blogspot.com/2022/07/1-cara-membuka-situs-yang-diblokir.html"
+    },
+
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "1. Memakai Situs Proxy",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Salah satu cara untuk membuka situs yang diblokir tanpa aplikasi adalah dengan menggunakan situs proxy.",
+      "link": "https://carabukasitusblokir.blogspot.com/2022/07/1-memakai-situs-proxy.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "2. Browser Opera",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Cara membuka situs yang diblokir berikutnya adalah dengan membuka situs di browser Opera.",
+      "link": "https://carabukasitusblokir.blogspot.com/2022/07/2-browser-opera.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "3. Memakai Add-on di Chrome dan Firefox",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Kalau kamu tidak mau mengunduh atau membeli VPN di komputer atau laptop",
+      "link": "https://carabukasitusblokir.blogspot.com/2022/07/3-memakai-add-on-di-chrome-dan-firefox.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "4. Menggunakan Google Translate",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Jangan salah, ternyata kamu bisa membuka situs yang diblokir menggunakan Google Translate, lo!",
+      "link": "https://carabukasitusblokir.blogspot.com/2022/07/4-menggunakan-google-translate.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "5. Memakai Ekstensi VPN",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "ara membuka situs yang diblokir tanpa aplikasi berikutnya adalah dengan menggunakan ekstensi VPN.",
+      "link": "https://carabukasitusblokir.blogspot.com/2022/07/5-memakai-ekstensi-vpn.html"
+    }
+
+  ]
+}
