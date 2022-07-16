@@ -6,8 +6,8 @@
       "main_ads_banner": "",
       "main_ads_intertitial":"",
       "native_for_admob":"",
-      "backup_ads_banner":"ds4d5e8718b97d78x",
-      "backup_ads_intertitial":"5s8cd97722c60b52x",
+      "backup_ads_banner":"1234567890",
+      "backup_ads_intertitial":"1234567890",
       "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -46,35 +46,51 @@
     {
       "id": 1,
       "name_category": "Tutorial",
-      "title": "1. Cara membuat video jedag jedug di Capcut",
+      "title": "1. Cara Nonton TV Tanpa Internet di HP Android",
       "image": "file:///android_asset/image/guide1.png",
-      "description": "Cara membuat video jedag jedug di Capcut keren bisa kamu coba untuk mengikuti",
-      "link": "https://tutorialcapcutjedagjedug.blogspot.com/2022/07/cara-membuat-video-jedag-jedug-di-capcut.html"
+      "description": "Menonton televisi (TV) melalui ponsel Android bisa dilakukan tanpa perlu koneksi internet.",
+      "link": "https://caranontontv.blogspot.com/2022/07/1-cara-nonton-tv-tanpa-internet-di-hp.html"
     },
 
     {
       "id": 2,
       "name_category": "Tutorial",
-      "title": "2. Edit Video Menjadi Jedag Jedug",
+      "title": "2. iDTV Mobile TV",
       "image": "file:///android_asset/image/guide1.png",
-      "description": "Aplikasi CapCut menjadi sangat diminati ketika Tiktok mencapai popularitasnya.",
-      "link": "https://tutorialcapcutjedagjedug.blogspot.com/2022/07/2-edit-video-menjadi-jedag-jedug.html"
+      "description": "Pertama, ada iDTV Mobile TV yang dibuat JerryChen. Aplikasi ini memiliki kualitas grafis yang baik",
+      "link": "https://caranontontv.blogspot.com/2022/07/2-idtv-mobile-tv.html"
     },
     {
       "id": 3,
       "name_category": "Tutorial",
-      "title": "3. Menggunakan aplikasi CapCut",
+      "title": "3. Air DTV",
       "image": "file:///android_asset/image/guide1.png",
-      "description": ". Silahkan untuk instal aplikasi CapCut. Platform ini bisa didapatkan pada toko aplikasi smartphone kamu",
-      "link": "https://tutorialcapcutjedagjedug.blogspot.com/2022/07/3-menggunakan-aplikasi-capcut.html"
+      "description": "Selanjutnya ada Air DTV yang kualitasnya cukup baik menjalankan siaran televisi",
+      "link": "https://caranontontv.blogspot.com/2022/07/3-air-dtv.html"
     },
     {
       "id": 4,
       "name_category": "Tutorial",
-      "title": "4. Cara Membuat Video Jedag Jedug di CapCut",
+      "title": "4. TDT HD TV",
       "image": "file:///android_asset/image/guide1.png",
-      "description": "Banyak orang yang masih kebingungan dengan cara membuat video jedag jedug di CapCut yang lagi hits sekarang ini.",
-      "link": "https://tutorialcapcutjedagjedug.blogspot.com/2022/07/cara-membuat-video-jedag-jedug-di-capcut_10.html"
+      "description": "TDT HD TV memungkinkan pengguna bebas menikmati siaran TV (free to air) tanpa",
+      "link": "https://caranontontv.blogspot.com/2022/07/4-tdt-hd-tv.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "5. WiTV & HomeFree TV",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Berikutnya adalah WiTV, aplikasi tuner portabel yang memungkinkan Anda menonton siaran tanpa menggunakan",
+      "link": "https://caranontontv.blogspot.com/2022/07/6-witv-homefree-tv.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "6. Migo",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Terakhir ada Migo yakni aplikasi nonton film & serial TV tanpa kuota. ",
+      "link": "https://caranontontv.blogspot.com/2022/07/6-migo.html"
     }
   ]
 }
