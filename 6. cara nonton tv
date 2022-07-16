@@ -1,0 +1,80 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"ds4d5e8718b97d78x",
+      "backup_ads_intertitial":"5s8cd97722c60b52x",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+    
+    
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "playstore",
+      "image": "file:///android_asset/image/guide1.png",
+      "link": "https://play.google.com/store/apps/details?id="
+    }
+
+
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/guide1.png"
+    }
+
+
+
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "1. Cara membuat video jedag jedug di Capcut",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Cara membuat video jedag jedug di Capcut keren bisa kamu coba untuk mengikuti",
+      "link": "https://tutorialcapcutjedagjedug.blogspot.com/2022/07/cara-membuat-video-jedag-jedug-di-capcut.html"
+    },
+
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "2. Edit Video Menjadi Jedag Jedug",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Aplikasi CapCut menjadi sangat diminati ketika Tiktok mencapai popularitasnya.",
+      "link": "https://tutorialcapcutjedagjedug.blogspot.com/2022/07/2-edit-video-menjadi-jedag-jedug.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "3. Menggunakan aplikasi CapCut",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": ". Silahkan untuk instal aplikasi CapCut. Platform ini bisa didapatkan pada toko aplikasi smartphone kamu",
+      "link": "https://tutorialcapcutjedagjedug.blogspot.com/2022/07/3-menggunakan-aplikasi-capcut.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "4. Cara Membuat Video Jedag Jedug di CapCut",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Banyak orang yang masih kebingungan dengan cara membuat video jedag jedug di CapCut yang lagi hits sekarang ini.",
+      "link": "https://tutorialcapcutjedagjedug.blogspot.com/2022/07/cara-membuat-video-jedag-jedug-di-capcut_10.html"
+    }
+  ]
+}
