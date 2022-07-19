@@ -1,0 +1,96 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"1234567890",
+      "backup_ads_intertitial":"1234567890",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+    
+    
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "playstore",
+      "image": "file:///android_asset/image/guide1.png",
+      "link": "https://play.google.com/store/apps/details?id="
+    }
+
+
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/guide1.png"
+    }
+
+
+
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "cara cek no hp dan wa",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Kini cara melacak nomor WhatsApp menjadi lebih mudah, asalkan pemilik nomor ponsel",
+      "link": "https://caraceklokasinohpatauwa.blogspot.com/2022/07/1-cara-cek-no-hp-dan-wa.html"
+    },
+
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "1. HLR Lookup",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Aplikasi rekomendasi pertama yang dapat dipakai untuk melacak nomor Whatsapp",
+      "link": "https://caraceklokasinohpatauwa.blogspot.com/2022/07/1-hlr-lookup.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "2. True Contact – Real Caller ID",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Aplikasi kedua yang disarankan bernama True Contact – Real Caller ID",
+      "link": "https://caraceklokasinohpatauwa.blogspot.com/2022/07/2-true-contact-real-caller-id.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "3. Show Caller",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Aplikasi selanjutnya yang direkomendasikan untuk mengetahui pemilik no Whatsapp",
+      "link": "https://caraceklokasinohpatauwa.blogspot.com/2022/07/3-show-caller.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "4. Melacak Nomor WhatsApp Lewat Website",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Bagi yang tak suka download aplikasi karena hanya akan memenuhi memori ponsel,",
+      "link": "https://caraceklokasinohpatauwa.blogspot.com/2022/07/4-melacak-nomor-whatsapp-lewat-website.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "5. Cara melacak no hp telkomsel indosat dan xl",
+      "image": "file:///android_asset/image/guide1.png",
+      "description": "Cara melacak no hp telkomsel adalah dengan membuka menu panggilan dan ketik kode dial up *250#.",
+      "link": "https://caraceklokasinohpatauwa.blogspot.com/2022/07/5-cara-melacak-no-hp-telkomsel-indosat.html"
+    }
+  ]
+}
